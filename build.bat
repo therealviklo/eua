@@ -1,0 +1,1 @@
+@vmake -o eua.exe -L -luser32 clang++ -std=c++20 -O2 -Wall -Wextra -D _CRT_SECURE_NO_WARNINGS
