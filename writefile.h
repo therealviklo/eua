@@ -1,5 +1,6 @@
 #pragma once
 #include <vector>
+#include <cstring>
 #include "utils.h"
 #include "file.h"
 #include "shithash.h"

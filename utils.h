@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <stdexcept>
 #include <filesystem>
+#include <cstdlib>
 #include "print.h"
 
 namespace fs = std::filesystem;
